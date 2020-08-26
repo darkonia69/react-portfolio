@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Login from "../auth/login";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import loginImg from "../../../static/assets/images/auth/login.jpg";
 
 export default class Auth extends Component {
